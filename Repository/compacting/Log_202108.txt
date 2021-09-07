@@ -1,0 +1,24 @@
+[Info] 8/30/2021 10:22:33 PM: Compacting started
+[Info] 8/30/2021 10:22:33 PM: 0/100 - Compacting Workspace
+[Info] 8/30/2021 10:22:33 PM: Compacting Workspace - Defragmentation finished in 00:00:00.2184481, database size: 7847936
+[Info] 8/30/2021 10:22:33 PM: -2147483648/-2147483648 - Recalculating index statistics
+[Info] 8/30/2021 10:22:33 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0309391, database size: 7847936
+[Info] 8/30/2021 10:22:33 PM: Compacting finished
+[Info] 8/31/2021 9:40:18 PM: 0/100 - Defragmenting Data - [estimated time left 9 s]
+[Info] 8/31/2021 9:40:19 PM: 10/100 - Defragmenting Data - [estimated time left 8 s]
+[Info] 8/31/2021 9:40:20 PM: 21/100 - Defragmenting Data - [estimated time left 7 s]
+[Info] 8/31/2021 9:40:21 PM: 32/100 - Defragmenting Data - [estimated time left 6 s]
+[Info] 8/31/2021 9:40:22 PM: 42/100 - Defragmenting Data - [estimated time left 5 s]
+[Info] 8/31/2021 9:40:23 PM: 53/100 - Defragmenting Data - [estimated time left 4 s]
+[Info] 8/31/2021 9:40:24 PM: 64/100 - Defragmenting Data - [estimated time left 3 s]
+[Info] 8/31/2021 9:40:25 PM: 74/100 - Defragmenting Data - [estimated time left 2 s]
+[Info] 8/31/2021 9:40:25 PM: Compacting started
+[Info] 8/31/2021 9:40:25 PM: Compacting Workspace - Defragmentation finished in 00:00:00.2926643, database size: 8347648
+[Info] 8/31/2021 9:40:25 PM: Compacting Workspace - Recalculating Index Statistics finished in 00:00:00.0224931, database size: 8347648
+[Info] 8/31/2021 9:40:25 PM: Compacting finished
+[Info] 8/31/2021 9:40:26 PM: 85/100 - Defragmenting Data - [estimated time left 1 s]
+[Info] 8/31/2021 9:40:27 PM: 96/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 8/31/2021 9:40:28 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 8/31/2021 9:40:29 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 8/31/2021 9:40:30 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
+[Info] 8/31/2021 9:40:31 PM: 99/100 - Defragmenting Data - [estimated time left 0 s]
